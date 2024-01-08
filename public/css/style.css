@@ -1,0 +1,29 @@
+.card-data{
+    border: solid 1px;
+    padding: 20px 50px;
+    color:white;
+}
+
+.card-data.book{
+    background-color:red;
+}
+
+.card-data.category{
+    background-color:green;
+}
+
+.card-data.user{
+    background-color:blue;;
+}
+
+.card-data i{
+    font-size: 80px;
+}
+
+.card-desc{
+    font-size: 30px;
+}
+
+.card-count{
+    font-size: 30px;
+}
